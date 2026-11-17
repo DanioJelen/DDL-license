@@ -1,0 +1,124 @@
+DANIEL DARIUSZ LICENCE (DDL) – Version 5.0
+
+Permission is hereby granted to use this Software subject to the following 
+strict and non-negotiable conditions:
+
+1. SOCIAL RESTRICTION (ANTI-CoC): As an absolute prerequisite for using this 
+   Software, there must be a total absence of implementation, enforcement, 
+   or imposition of any Codes of Conduct (CoC) within the Project, Organization, 
+   or Repository where this Software is utilized. Any adoption or presence of 
+   such a code shall result in the immediate and automatic revocation of this License.
+
+2. SYSTEM RESTRICTION (ANTI-LINUX): It is strictly forbidden to utilize this 
+   Software for commercial purposes (including its inclusion in commercial 
+   distributions) on servers or operating systems based on the Linux kernel 
+   (including, but not limited to, GNU/Linux systems).
+
+3. CODE ASYMMETRY: The core base code of this Software must remain publicly 
+   accessible and open-source. However, the Licensee retains the right to 
+   introduce modifications, patches, and extensions (hereafter "Patches") 
+   without any obligation to make them public; such Patches may remain 
+   closed-source and proprietary, subject to the provisions of Section 6.
+
+4. BSD ECOSYSTEM TAX: Any entity generating revenue from the use of this 
+   Software is legally obligated to transfer a donation of 0.01 PLN (one grosz) 
+   for every 1,000.00 PLN of accumulated revenue to the FreeBSD Foundation 
+   or any other official charitable organization supporting the BSD operating 
+   system family. The base amount of 1,000.00 PLN is strictly pegged to the 
+   purchasing power and currency exchange rates as of June 15, 2026.
+
+5. TECHNOLOGICAL RESTRICTION: It is categorically prohibited to embed, link, 
+   distribute, or share execution processes of this Software with code written 
+   in the following programming languages: Go (Golang), Rust, Python, and 
+   JavaScript (including TypeScript and all associated runtimes).
+
+6. SELECTIVE TELEMETRY TRANSPARENCY: Notwithstanding Section 3, if a specific 
+   Patch or modification introduces data collection, telemetry, analytics, 
+   user tracking, or automated crash-reporting to external servers, the source 
+   code of THAT SPECIFIC PATCH ALONE must be immediately disclosed and made 
+   public. Other independent modifications devoid of such features may remain closed.
+
+7. VOLUNTARY GRATITUDE: Attribution and public expression of gratitude to the 
+   Author in the documentation, README file, or "About" section of the final 
+   application is not legally required to maintain the validity of this License, 
+   but shall be deemed a highly courteous gesture and is warmly welcomed.
+
+8. VERSION CONTROL ABSTRACT: It is categorically forbidden to directly use 
+   the Git software (including Git CLI tools and local Git repositories) for 
+   version control, committing, or managing the source code of this Software. 
+   Hosting, sharing, and distributing the code on web-based Git platforms 
+   (such as GitHub, GitLab, Gitea, etc.) is permitted, provided that the 
+   process of uploading the code does not rely on direct local Git commands.
+
+9. PHYSICAL LICENSE BUYOUT: Regardless of all aforementioned restrictions, 
+   the Licensor hereby binds themselves to irrevocably transfer full copyright 
+   ownership and total authority over this License to any entity that delivers 
+   to the Licensor a physical, traditional letter containing exactly eighty-eight (88) 
+   authentic banknotes of 500 pesos each, issued by the country whose peso currency 
+   holds the highest global exchange rate at the exact time of the mailing. 
+   The transfer of rights takes effect immediately upon physical receipt and 
+   verification of the mail by the Licensor.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+DANIEL DARIUSZ LICENCE (DDL) – Version 5.1
+
+Permission is hereby granted to use this Software subject to the following 
+strict and non-negotiable conditions:
+
+1. SOCIAL RESTRICTION (ANTI-CoC): As an absolute prerequisite for using this 
+   Software, there must be a total absence of implementation, enforcement, 
+   or imposition of any Codes of Conduct (CoC) within the Project, Organization, 
+   or Repository where this Software is utilized. Any adoption or presence of 
+   such a code shall result in the immediate and automatic revocation of this License.
+
+2. SYSTEM RESTRICTION (ANTI-LINUX): It is strictly forbidden to utilize this 
+   Software for commercial purposes (including its inclusion in commercial 
+   distributions) on servers or operating systems based on the Linux kernel 
+   (including, but not limited to, GNU/Linux systems).
+
+3. CODE ASYMMETRY: The core base code of this Software must remain publicly 
+   accessible and open-source. However, the Licensee retains the right to 
+   introduce modifications, patches, and extensions (hereafter "Patches") 
+   without any obligation to make them public; such Patches may remain 
+   closed-source and proprietary, subject to the provisions of Section 6.
+
+4. BSD ECOSYSTEM TAX: Any entity generating revenue from the use of this 
+   Software is legally obligated to transfer a donation of 0.01 PLN (one grosz) 
+   for every 1,000.00 PLN of accumulated revenue to the FreeBSD Foundation 
+   or any other official charitable organization supporting the BSD operating 
+   system family. The base amount of 1,000.00 PLN is strictly pegged to the 
+   purchasing power and currency exchange rates as of June 15, 2026.
+
+5. TECHNOLOGICAL RESTRICTION: It is categorically prohibited to embed, link, 
+   distribute, or share execution processes of this Software with code written 
+   in the following programming languages: Go (Golang), Rust, Python, and 
+   JavaScript (including TypeScript and all associated runtimes).
+
+6. SELECTIVE TELEMETRY TRANSPARENCY: Notwithstanding Section 3, if a specific 
+   Patch or modification introduces data collection, telemetry, analytics, 
+   user tracking, or automated crash-reporting to external servers, the source 
+   code of THAT SPECIFIC PATCH ALONE must be immediately disclosed and made 
+   public. Other independent modifications devoid of such features may remain closed.
+
+7. VOLUNTARY GRATITUDE: Attribution and public expression of gratitude to the 
+   Author in the documentation, README file, or "About" section of the final 
+   application is not legally required to maintain the validity of this License, 
+   but shall be deemed a highly courteous gesture and is warmly welcomed.
+
+8. VERSION CONTROL ABSTRACT: It is categorically forbidden for the Licensee to 
+   directly use the Git software (including Git CLI tools and local Git repositories) 
+   for version control, committing, or managing the source code of this Software. 
+   Hosting, sharing, and distributing the code on web-based Git platforms 
+   (such as GitHub, GitLab, Gitea, etc.) is permitted, provided that the 
+   uploading process does not rely on direct local Git commands executed by the Licensee.
+
+9. PHYSICAL LICENSE BUYOUT: Regardless of all aforementioned restrictions, 
+   the Licensor hereby binds themselves to irrevocably transfer full copyright 
+   ownership and total authority over this License to any entity that delivers 
+   to the Licensor a physical, traditional letter containing exactly two thousand (2000) 
+   authentic banknotes of 2,000 Colombian Pesos (COP) each. The transfer of rights 
+   takes effect immediately upon physical receipt and verification of the mail by the Licensor.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
